@@ -1,1 +1,1 @@
-# artifactory
+# postgres
